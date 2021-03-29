@@ -1,0 +1,19 @@
+# Hi there, I'm Patryk ! 👋
+## I'm a Developer from Poland
+- 🎓 I am currently studying computer science in Katowice
+- 💻 I am currently working on a monitoring application for the SARS-CoV-2 coronavirus
+- 📖 I am currently learning how to develop web applications
+
+
+### Languages and Tools
+[<img align="left" src="https://img.icons8.com/color/48/000000/python.png" alt="python" />][python]
+[<img align="left" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java"/>][java]
+[<img align="left" src="https://img.icons8.com/ios-filled/48/000000/git.png"/>][git]
+[<img align="left" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>][vscode]
+[<img align="left" src="https://img.icons8.com/ios-filled/48/000000/django.png" alt="django">][django]
+
+[python]: https://www.python.org/
+[java]: https://www.java.com/
+[git]: https://git-scm.com/
+[django]: https://www.djangoproject.com/
+[vscode]: https://code.visualstudio.com/
