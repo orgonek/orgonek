@@ -1,8 +1,7 @@
 # Hi there, I'm Patryk ! 👋
 ## I'm a Developer from Poland
 - 🎓 I am currently studying computer science in Katowice
-- 💻 I am currently working on a monitoring application for the SARS-CoV-2 coronavirus
-- 📖 I am currently learning how to develop web applications
+- 📖 I am currently learning React, NodeJS
 
 
 ### Languages and Tools
