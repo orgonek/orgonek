@@ -1,6 +1,6 @@
 # Hi there, I'm Patryk ! 👋
 ## I'm a Developer from Poland
-- 🎓 I have just finished my bachelor's degree in computer science at the University of Economics in Katowice
+- 🎓 I have completed my bachelor's degree in computer science at the University of Economics in Katowice
 - 📖 I am currently learning and using Java, Python, Spring, Django
 
 
